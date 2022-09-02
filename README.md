@@ -36,4 +36,4 @@ conda deactivate
 ### TODO's
 - [x] Install bio (biostar) package
 - [x] Install ncbi sra-toolkit
-- [ ] Install taxonomy?
+- [ ] Make script to download genomes and annotations
